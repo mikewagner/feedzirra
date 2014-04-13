@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_runtime_dependency 'builder',       ['~> 2.1.2']
   s.add_runtime_dependency 'activesupport', ['>= 4.1.0']
   s.add_runtime_dependency 'loofah',        ['~> 1.2.1']
-  s.add_runtime_dependency 'rdoc',          ['~> 3.8']
+  s.add_runtime_dependency 'rdoc',          ['~> 4.1.1']
   s.add_runtime_dependency 'rake',          ['>= 0.9.2']
   s.add_runtime_dependency 'i18n',          ['>= 0.5.0']
 
